@@ -149,5 +149,10 @@ START → Route Query → Conditional Routing → Selected Agent → Generate An
 - **Tavily**: 인터넷 검색 API
 - **Gradio**: 웹 인터페이스
 
-#
-
+## TODO
+- 역할별 prompt 상세 분리 
+- 검색 결과, 회신 결과 검증 
+- GW API 서버 구축 --> Tool Call 호출
+- 운영 작업 지시전 Human-In-The-Loop 구현 
+- data platform 구성과 data flow와 관련된 knowledge graph -> RCA(Root Cause Analysis)
+- slack 툴 연동 
